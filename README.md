@@ -1,4 +1,4 @@
-# ticket-bot-python
+# Tickets bot python
 ez bot for tickets 
 
 # Installing modules : 
