@@ -5,11 +5,11 @@ ez bot for tickets
 
 - Run this command if your on windows : 
 ```sh
-$ py -m pip install discord & py -m pip install lightdb
+py -m pip install discord & py -m pip install lightdb
 ```
 - Run this if your on linux:
 ```sh
-$ pip install discord && pip install lightdb
+pip install discord && pip install lightdb
 ```
 
 # Running the bot : 
